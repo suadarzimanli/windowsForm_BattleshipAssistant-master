@@ -56,10 +56,6 @@ Contributions to the Battleship Assistant project are welcome! If you would like
 
 5. Submit a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgments
 
 - The Battleship Assistant project is inspired by the classic Battleship game.
