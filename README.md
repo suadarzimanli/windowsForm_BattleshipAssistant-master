@@ -60,7 +60,4 @@ Contributions to the Battleship Assistant project are welcome! If you would like
 
 - The Battleship Assistant project is inspired by the classic Battleship game.
 
-## Contact
-
-If you have any questions, suggestions, or issues, please feel free to contact the project owner at your-email@example.com.
 
