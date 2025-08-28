@@ -13,8 +13,6 @@ This is a C# Windows Forms application for playing the Battleship game with a lo
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/battleship-assistant.git
-
 
 2. Open the solution file `BattleshipAssistant.sln` in Visual Studio.
 
